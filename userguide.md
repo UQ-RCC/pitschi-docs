@@ -1,5 +1,7 @@
 
 __Pitschi user guide__
+![image](images/pitschi.png)
+
 
 Please follow the following steps to login into your instruments. 
 
@@ -36,12 +38,28 @@ Step 2: Book your session in PPMS
 
 5) On the booking calendar, please select Project, time slots to be booked and click the button Book the selected sessions.
 
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/42192079/123134935-a1d0dc00-d494-11eb-9037-0830c4012f02.png">
+<img width="857" alt="image" src="https://user-images.githubusercontent.com/42192079/123134959-a6959000-d494-11eb-9b1a-eeb504b7ae2d.png">
 
 
 
 
 Step 3: Access Instrment
 
-Step 4: check your data
+1) On the Instrument computer, on login screen please enter your UQ username and password.
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/42192079/123135508-39cec580-d495-11eb-9594-91fcb6b4ad79.png">
+
+
+2) Please select project.
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/42192079/123135669-684ca080-d495-11eb-968e-44ff4d5ceb19.png">
+
+
+
+Step 4: Logout of PPMS Tracker.
+
+Now you can use the system. Once you finish the work please log out of the system.
+<img width="749" alt="image" src="https://user-images.githubusercontent.com/42192079/123135563-4ce19580-d495-11eb-9311-f7067a7cd648.png">
+
+
 
 
