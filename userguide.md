@@ -1,4 +1,47 @@
 
 __Pitschi user guide__
 
-Please follow the following steps to login into your instruments. Please note that **it is compulsory to register yourself as a user in PPMS instrument booking system.**
+Please follow the following steps to login into your instruments. 
+
+> ## Prerequisite
+>
+> Please note that **it is compulsory to register yourself as a user in PPMS instrument booking system.**
+
+
+
+Step 1: Register in PPMS
+
+* Please make sure you are registered on PPMS instrument booking system.
+* If you are not already a PPMS user, please complete user registration form
+	 https://au.ppms.info/uq-cmm/areq/?pf=2
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/42192079/123127393-9332f680-d48d-11eb-9aee-673bdfd03299.png">
+
+
+
+
+Step 2: Book your session in PPMS
+
+
+> ## Prerequisite
+> Please note that **it is compulsory to book your session in PPMS instrument booking system.**
+
+1) Once your PPMS account is approved by CMM staff. Please login to PPMS using your UQ username and password.
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/42192079/123127764-ec9b2580-d48d-11eb-89e8-3e9cdf7446b2.png">
+
+2) On your home page please click on ‘Book’ on top bar.
+3) Please select Mosquito Protein from the list of instruments.
+<img width="862" alt="image" src="https://user-images.githubusercontent.com/42192079/123132056-a8118900-d491-11eb-9495-3e10e5372f40.png">
+
+
+
+5) On the booking calendar, please select Project, time slots to be booked and click the button Book the selected sessions.
+
+
+
+
+
+Step 3: Access Instrment
+
+Step 4: check your data
+
+
