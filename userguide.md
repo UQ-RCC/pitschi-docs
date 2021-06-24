@@ -7,8 +7,10 @@ Please follow the following steps to login into your instruments.
 >
 > Please note that **it is compulsory to register yourself as a user in PPMS instrument booking system.**
 
-* Please make sure you are registered on PPMS instrument booking system.
-* If you are not already a PPMS user, please complete user registration form
+* Please make sure you are registered on PPMS instrument booking system. 
+* If you are already a PPMS user, please **go to Step 2**.
+
+* If you are not a PPMS user, please complete user registration form
 	 https://au.ppms.info/uq-cmm/areq/?pf=2
 	 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123127393-9332f680-d48d-11eb-9aee-673bdfd03299.png">
