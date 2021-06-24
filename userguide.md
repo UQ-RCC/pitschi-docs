@@ -1,8 +1,6 @@
 
 Please follow the following steps to login into your instruments. 
 
-
-
 # Step 1: User registration in PPMS
 
 > ### Prerequisite
