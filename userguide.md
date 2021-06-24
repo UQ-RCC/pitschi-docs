@@ -3,7 +3,7 @@ Please follow the following steps to login into your instruments.
 
 
 
-# Step 1: User registration in PPMS
+## Step 1: User registration in PPMS
 
 > ### Prerequisite
 >
@@ -15,7 +15,7 @@ Please follow the following steps to login into your instruments.
 	 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123127393-9332f680-d48d-11eb-9aee-673bdfd03299.png">
 
-# Step 2: Book your session in PPMS
+## Step 2: Book your session in PPMS
 
 > ### Prerequisite
 > Please note that **it is compulsory to book your session in PPMS instrument booking system.**
@@ -35,7 +35,7 @@ Please follow the following steps to login into your instruments.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123134959-a6959000-d494-11eb-9b1a-eeb504b7ae2d.png">
 
-# Step 3: Access Instrument
+## Step 3: Access Instrument
 
 1) On the Instrument computer, on login screen please enter your UQ username and password.
 
@@ -46,7 +46,7 @@ Please follow the following steps to login into your instruments.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123135669-684ca080-d495-11eb-968e-44ff4d5ceb19.png">
 
-# Step 4: Logout of PPMS Tracker.
+## Step 4: Logout of PPMS Tracker.
 
 Now you can use the system. Once you finish the work please log out of the system.
 
