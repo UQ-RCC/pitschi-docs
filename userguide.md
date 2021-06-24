@@ -4,6 +4,7 @@ Please follow the following steps to login into your instruments.
 
 
 # Step 1: User registration in PPMS
+
 > ### Prerequisite
 >
 > Please note that **it is compulsory to register yourself as a user in PPMS instrument booking system.**
