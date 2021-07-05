@@ -21,6 +21,19 @@ Pitschi is deployed on a [Docker Swarm Cluster](https://docs.docker.com/engine/s
 
 
 # Data management
+![image](images/clowder_datamodel.png)
+
+In Clowder, space is the highest level in hierarchy of data organization. Space consists of datasets, and within datasets, there are files and folders. Collection is a group of datasets. Users can generally create spaces by themselves and within each space and dataset, what users can do is limited by their roles. A more detailed description of Clowder can be found [here](https://clowder-framework.readthedocs.io/en/latest/userguide/ug_index.html)
+
+In Pitschi, while the data hierarchy is the same, we have modified the access control to fit our data flow. This section of the guide details how data management is done is Pitschi.
+
+## User accounts and access controls
+
+## Data organisation
+
+### Overview
+
+### Project level data organisation
 
 # Data ingestion
 
