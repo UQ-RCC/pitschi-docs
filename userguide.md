@@ -46,7 +46,10 @@ Please follow the following steps to login into your instruments.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123135669-684ca080-d495-11eb-968e-44ff4d5ceb19.png">
 
-## Step 4: Access Instrument
+## Step 4: Data Acquisition
+> ### Prerequisite
+> Please make sure you have **booked instrument in PPMS booking system.**
+> If it is not booked, please goto Step 2.
 
 
 ## Step 5: Logout of PPMS Tracker.
