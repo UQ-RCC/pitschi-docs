@@ -1,5 +1,3 @@
-#  Pitschi
-
 ![image](images/pitschi.png)
 
 Pitschi (Particle Imaging depoT using Storage caCHing Infrastructure) is a data repository that is built on top of [Clowder data management framework](https://github.com/clowder-framework/). 

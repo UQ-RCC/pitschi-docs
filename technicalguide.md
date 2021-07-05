@@ -2,7 +2,7 @@
 In construction
 
 # Purpose
-This technical guide explains the components of Pitschi and how it works.
+This technical guide explains the components of Pitschi and how they work together.
 
 # Components
 ![image](images/pitschi_components.png)
