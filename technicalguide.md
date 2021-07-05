@@ -15,14 +15,17 @@ Pitschi consists of the following components:
 * **[Pitschi-cli](github.com/UQ-RCC/pitschi-cli)**: A desktop client residing in the instrument computers for syncing datasets and files to the project's storage collection.  
 
 # Deployment
-Pitschi is deployed on a Docker Swarm Cluster on top of the QRISCloud (OpenStack) research cloud. Ansible is used provision the stack. The deployment code can be found [here](https://github.com/UQ-RCC/ansible-swarm-clowder)
+Pitschi is deployed on a [Docker Swarm Cluster](https://docs.docker.com/engine/swarm/) on top of the [QRISCloud](https://www.qriscloud.org.au/) (OpenStack) research cloud. [Ansible](https://www.ansible.com/) 2.9 is used provision the stack. The deployment code can be found [here](https://github.com/UQ-RCC/ansible-swarm-clowder)
+
 
 
 
 # Data management
 
-# Data ingest
+# Data ingestion
 
-## Web ingest
+## Web ingestion
+![image](images/webingestion.png)
 
-## RDM ingest
+## RDM ingestion
+![image](images/rdm_ingestion.png)
