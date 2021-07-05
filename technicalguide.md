@@ -1,3 +1,6 @@
+# Status
+In construction
+
 # Purpose
 This technical guide explains the components of Pitschi and how it works.
 
