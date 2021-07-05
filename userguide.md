@@ -51,6 +51,11 @@ Please follow the following steps to login into your instruments.
 > Please make sure you have **booked instrument in PPMS booking system.**
 > If it is not booked, please goto Step 2.
 
+1) Mount RDM collection
+2) create project in local folder
+3) Create Today shortcut on desktop
+4) copy your data in Today's folder
+5) Syncing of data to RDM periodically
 
 ## Step 5: Logout of PPMS Tracker.
 
@@ -58,6 +63,22 @@ Now you can use the system. Once you finish the work please log out of the syste
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123135563-4ce19580-d495-11eb-9311-f7067a7cd648.png">
 
+## Step 6: First email - right after logout​.
 
+Second email - once data is ingested into Pitschi​
+
+## Step 6: Logout of PPMS Tracker.
+
+1)Finish syncing​
+
+2. Dismount RDM collection​
+
+3. Send first email (successfully import data to RDM)​
+
+4. Ingest dataset to Clowder/Pitschi​
+
+5. Extract metadata ​
+
+6. Send second email (successfully ingest data to RDM) ​
 
 
