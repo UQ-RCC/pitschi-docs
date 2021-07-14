@@ -1,5 +1,5 @@
 * [Introduction](/)
 * [User Guide - Tracker only](userguide-tracker.md)
-* [User Guide](userguide.md)
+* [User Guide - Pitschi](userguide-pitschi.md)
 * [Technical Guide](technicalguide.md)
 * [FAQ](faq.md)
