@@ -21,9 +21,7 @@
 >> If the project has an RDM in PPMS, then data is then copied to the project RDM.
 >> If the project does not have an RDM in PPMS, nothing is changed
 
- 
 2)
-
   Client A is booked in PPMS from 9am to 11am
 
   Client B logs into tracker at 9am and logs out at 11am
@@ -36,7 +34,6 @@
 >> If the project has no RDM in PPMS, nothing is changed.
 
 3)
-
   Client A is booked in PPMS from 9am to 11am
 
   Client B is booked in PPMS from 11am to 1pm
@@ -50,18 +47,14 @@
 
 >> If the project has no RDM in PPMS, nothing is changed.
 
-4.
+4)
+  Nobody is booked in PPMS
 
-Nobody is booked in PPMS
+  Client A logs into tracker at 9am and logs out at 11am
 
-Client A logs into tracker at 9am and logs out at 11am
+> PPMS: Client A's usage is recorded from 9 am to 11 am.
 
----->
+> Pitschi:
+>> If the project has an RDM in PPMS, Pitschi will notify client A that he/she has no booking, and thus Pitschi will not capture any data.
 
-PPMS: Client A's usage is recorded from 9 am to 11 am.
-
-Pitschi:
-
-If the project is new, i.e. has an RDM, Pitschi will notify client A that he/she has no booking, and thus Pitschi will not capture any data.
-
-If the project is an existing one, nothing is changed. 
+>> If the project has an RDM in PPMS, nothing is changed. 
