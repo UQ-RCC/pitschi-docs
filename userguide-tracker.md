@@ -1,4 +1,3 @@
-[userguide-tracker](https://github.com/UQ-RCC/pitschi-docs/blob/master/userguide-tracker.md)
 ## Step 1: User registration in PPMS
 
 > ### Prerequisite
