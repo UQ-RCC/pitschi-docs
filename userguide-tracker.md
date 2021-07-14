@@ -1,4 +1,4 @@
-# Step 1: User registration in PPMS
+## Step 1: User registration in PPMS
 
 > ### Prerequisite
 >
@@ -43,7 +43,7 @@
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123135669-684ca080-d495-11eb-968e-44ff4d5ceb19.png">
 
-## Step 5: Logout of PPMS Tracker.
+## Step 4: Logout of PPMS Tracker.
 
 Now you can use the system. Once you finish the work please log out of the system.
 
