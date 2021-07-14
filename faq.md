@@ -1,12 +1,12 @@
 # What is the difference between Clowder, 4ceed and Pitschi?
 
-**Clowder** is a customizable and scalable data management framework to support any data format and multiple research domains. 
+**[Clowder](https://clowderframework.org/)** is a customizable and scalable data management framework to support any data format and multiple research domains. 
 
-**4ceed** is an instance of Clowder, that focuses on material sciences. 
+**[4ceed](https://4ceed.github.io/)** is an instance of Clowder, that focuses on material sciences. 
 
-**Pitschi** is also an instance of Clowder, customised for UQ infrastructure. Pitschi also consists of components to capture data from the instrument computer. 
+**[Pitschi](https://uq-rcc.github.io/pitschi-docs)** is also an instance of Clowder, customised for UQ infrastructure. Pitschi also consists of components to capture data from the instrument computer. 
 
-# How PPMS and Pitschi behave in these scenarios
+# How do PPMS and Pitschi behave in these scenarios ?
 1) 
 
   Client A is booked in PPMS from 9am to 11am.
