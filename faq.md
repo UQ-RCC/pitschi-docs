@@ -19,6 +19,7 @@
 
 >Pitschi:
 >> If the project has an RDM in PPMS, then data is then copied to the project RDM.
+
 >> If the project does not have an RDM in PPMS, nothing is changed
 
 2)
