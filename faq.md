@@ -2,9 +2,9 @@
 
 **[Clowder](https://clowderframework.org/)** is a customizable and scalable data management framework to support any data format and multiple research domains. 
 
-**[4ceed](https://4ceed.github.io/)** is an instance of Clowder, that focuses on material sciences. 
+**[4ceed](https://4ceed.github.io/)** is a modified version of Clowder, focusing on material sciences. 
 
-**[Pitschi](https://uq-rcc.github.io/pitschi-docs)** is also an instance of Clowder, customised for UQ infrastructure. Pitschi also consists of components to capture data from the instrument computer. 
+**[Pitschi](pitschi.rcc.uq.edu.au/)** is also an instance of Clowder, customised for UQ infrastructure. Pitschi also consists of components to capture data from the instrument computer. 
 
 # How do PPMS and Pitschi behave in these scenarios ?
 1) 
@@ -59,3 +59,13 @@
 >> If the project has an RDM in PPMS, Pitschi will notify client A that he/she has no booking, and thus Pitschi will not capture any data.
 
 >> If the project has an RDM in PPMS, nothing is changed. 
+
+# How do I create an account in the [Pitschi](pitschi.rcc.uq.edu.au) website ?
+Pitschi does not support manual account creation. 
+
+Instead, it syncs projects from PPMS with valid RDMs to its database. So if you want to have an account in the [Pitschi](pitschi.rcc.uq.edu.au) website, make sure you are in a PPMS project with valid RDM. 
+
+# I have an existing project in PPMS with an existing RDM. How do I ingest data to Pitschi ?
+The current phase of Pitschi rollout does not support existing projects. It means you keep doing what you have been doing. 
+
+We decided to not touch the existing projects to minimise service interruptions. Once pitschi is in all the instruments, we will help users ingest existing data into Pitschi. 
