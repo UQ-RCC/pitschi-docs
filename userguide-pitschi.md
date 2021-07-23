@@ -102,10 +102,11 @@ Once you finish the work please log out of the system.
 
 <img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/126729355-dc171d50-fb70-4102-b1cc-c93316447d54.png">
 
+## Step 8: Data ingestion to pitschi.
 
-4. Ingest dataset to Clowder/Pitschi​
+1. Ingest dataset to Clowder/Pitschi​
 
-5. Extract metadata ​
+2. Extract metadata ​
 
 
 
