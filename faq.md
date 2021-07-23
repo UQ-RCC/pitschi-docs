@@ -58,7 +58,23 @@
 > Pitschi:
 >> If the project has an RDM in PPMS, Pitschi will notify client A that he/she has no booking, and thus Pitschi will not capture any data.
 
->> If the project has an RDM in PPMS, nothing is changed. 
+>> If the project has no RDM in PPMS, nothing is changed. 
+
+5) 
+  Client A uses an instrument for 10 hours, but only book it for the first and the last hour. The client only logs into PPMS Tracker for the first to setup the experiment and last hour for collecting data. 
+
+> PPMS: PPMS only charges the client for the first and last hour, even though the client uses the machine for 10 hours. 
+
+> Pitschi: 
+>> If the project has an RDM in PPMS, Pitschi still captures data generated, However, this is **very risky** as the client might **lose data**. As an example, the experiment will be stopped if there is another session in between the bookings. Also, we will not guarantee that the data are synced properlly to RDM in this particular case.  
+
+>> If the project has no RDM in PPMS, nothing is changed. 
+6)
+  How do I support maintenance ? 
+
+> When you log into PPMS, please use backup code for maintenance purposes. This will stop PPMS from logging usage data and Pitschi from capturing any data. The backup code can also be used for users without PPMS accounts.
+
+
 
 # How do I create an account in the [Pitschi](pitschi.rcc.uq.edu.au) website ?
 Pitschi does not support manual account creation. 

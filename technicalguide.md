@@ -28,6 +28,9 @@ In Clowder, space is the highest level in hierarchy of data organization. Space 
 In Pitschi, while the data hierarchy is the same, we have modified the access control to fit our data flow. This section of the guide details how data management is done is Pitschi.
 
 ## User accounts and access controls
+In Pitschi, manual creation of accounts and spaces is disabled. Instead, projects and its accounts are synced from PPMS. 
+
+UQ users will need to use UQ SSO to log into Pitschi, while external accounts are created using email address supplied from PPMS. 
 
 ## Data organisation
 
