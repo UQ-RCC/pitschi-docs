@@ -74,7 +74,7 @@
 
 # How do I support maintenance ? 
 
-> When you log into PPMS, please use backup code for maintenance purposes. This will stop PPMS from logging usage data and Pitschi from capturing any data. The backup code can also be used for users without PPMS accounts.
+When you log into PPMS, please use backup code for maintenance purposes. This will stop PPMS from logging usage data and Pitschi from capturing any data. The backup code can also be used for users without PPMS accounts.
 
 
 
