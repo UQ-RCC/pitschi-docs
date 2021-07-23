@@ -91,25 +91,21 @@ Once you finish the work please log out of the system.
 
 ## Step 6: First email - right after logout​.
 
-1) First email - Importing dataset to RDM.
+1) Once data syncing is complete you'll recieve first email - **successfully imported dataset to RDM**.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126728380-e340740b-309a-4ac3-a671-d70b71708fee.png">
 
-2) Second email - once data is ingested into Pitschi.
+2) Once data is improted successfully to project RDM you'll recieve another email - **Successully ingested dataset**, and pitschi will dismount RDM automatically.
 
 
-## Step 7: Logout of PPMS Tracker.
+## Step 7: Data ingestion to pitschi.
 
-1. Finish syncing​
+<img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/126729355-dc171d50-fb70-4102-b1cc-c93316447d54.png">
 
-2. Dismount RDM collection​
-
-3. Send first email (successfully import data to RDM)​
 
 4. Ingest dataset to Clowder/Pitschi​
 
 5. Extract metadata ​
 
-6. Send second email (successfully ingest data to RDM) ​
 
 
