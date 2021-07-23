@@ -69,8 +69,10 @@
 >> If the project has an RDM in PPMS, Pitschi still captures data generated, However, this is **very risky** as the client might **lose data**. As an example, the experiment will be stopped if there is another session in between the bookings. Also, we will not guarantee that the data are synced properlly to RDM in this particular case.  
 
 >> If the project has no RDM in PPMS, nothing is changed. 
-6)
-  How do I support maintenance ? 
+
+
+
+# How do I support maintenance ? 
 
 > When you log into PPMS, please use backup code for maintenance purposes. This will stop PPMS from logging usage data and Pitschi from capturing any data. The backup code can also be used for users without PPMS accounts.
 
