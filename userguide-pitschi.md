@@ -63,7 +63,6 @@ If you see the above messgae on your screen, please log out of the PPMS Tracker 
 > 
 > <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/125218788-f71b4300-e306-11eb-9155-5085233eaa95.png">
 > 
-> 
 > - On File Explorer, you can access your UQRDM collection in two ways a) click directly on UQRDM collection on the left panel of window 
 > 
 > <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/125220496-3303d780-e30a-11eb-917d-1027cebc9be7.png">
@@ -76,19 +75,28 @@ If you see the above messgae on your screen, please log out of the PPMS Tracker 
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126724917-ebdbcd6d-e8ae-48c5-9b05-fa547abd32fb.png">
 
+4) Please open **Today** folder. create a new folder with the name you want for your data. For example **Test-23072021**
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126727634-cfc6907d-665c-459d-95f0-f498b7c23e52.png">
 
-4) once data copied successfully, Please go to next step.
+5) Please drop your data in the folder.
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126727644-a9bdb554-9a33-4e3a-8f60-8c1e290834b5.png">
+
+6) once data copied successfully, Please go to next step.
 
 ## Step 5: Logout of PPMS Tracker.
 
-Now you can use the system. Once you finish the work please log out of the system.
+Once you finish the work please log out of the system.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123135563-4ce19580-d495-11eb-9311-f7067a7cd648.png">
 
 ## Step 6: First email - right after logout​.
 
-1) First email - Syncing of data to RDM periodically
-2) Second email - once data is ingested into Pitschi​
+1) First email - Importing dataset to RDM.
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126728380-e340740b-309a-4ac3-a671-d70b71708fee.png">
+
+2) Second email - once data is ingested into Pitschi.
+
 
 ## Step 7: Logout of PPMS Tracker.
 
