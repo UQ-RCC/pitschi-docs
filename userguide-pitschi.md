@@ -4,7 +4,7 @@
 > Please do  ...
 > Please do not ...
 
-# Step 1: User registration in PPMS
+## Step 1: User registration in PPMS
 
 > ### Prerequisite
 >
@@ -32,7 +32,7 @@
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123132056-a8118900-d491-11eb-9495-3e10e5372f40.png">
 
-5) On the booking calendar, please select Project, time slots to be booked and click the button Book the selected sessions.
+4) On the booking calendar, please select **Project**, time slots to be booked and click the button **Book** the selected sessions.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123134935-a1d0dc00-d494-11eb-9037-0830c4012f02.png">
 
@@ -55,9 +55,9 @@
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/124858185-ec07a080-dff0-11eb-802d-3b87fe36a55c.jpg">
 
-Is you see the above messgae on your screen, please log out of the PPMS Tracker and please goto Step 2.
+If you see the above messgae on your screen, please log out of the PPMS Tracker and  go back to Step 2.
 
-1) If you have a booking session in PPMS, then please login to PPMS Tracker again.
+1) If you have a booking session in PPMS, then please login to **PPMS Tracker** again.
 2) Your project UQRDM collection would be mounted automatically. If you want to check please follow following instructions:  
 > - Click on the **Start button** and search **File Explorer**, then click on **File Explorer**.
 > 
@@ -68,12 +68,16 @@ Is you see the above messgae on your screen, please log out of the PPMS Tracker 
 > 
 > <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/125220496-3303d780-e30a-11eb-917d-1027cebc9be7.png">
 >
-> - or click on 'this PC' and find you UQRDM collection there. 
+> - or click on 'This PC' and find your UQRDM collection there. 
 > <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/125221130-23d15980-e30b-11eb-87a6-933d106791c6.png">
 
  
-4) When you finish capturing your data, please drop it in **Today** folder on Desktop.
-5) once data copied successfully, Please go to next step.
+3) When you finish capturing your data, please drop it in **Today** folder on Desktop.
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126724917-ebdbcd6d-e8ae-48c5-9b05-fa547abd32fb.png">
+
+
+4) once data copied successfully, Please go to next step.
 
 ## Step 5: Logout of PPMS Tracker.
 
@@ -83,12 +87,12 @@ Now you can use the system. Once you finish the work please log out of the syste
 
 ## Step 6: First email - right after logout​.
 
-10) Syncing of data to RDM periodically
-Second email - once data is ingested into Pitschi​
+1) First email - Syncing of data to RDM periodically
+2) Second email - once data is ingested into Pitschi​
 
-## Step 6: Logout of PPMS Tracker.
+## Step 7: Logout of PPMS Tracker.
 
-1)Finish syncing​
+1. Finish syncing​
 
 2. Dismount RDM collection​
 
