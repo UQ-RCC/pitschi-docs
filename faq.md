@@ -86,6 +86,27 @@ Pitschi does not support manual account creation.
 
 Instead, it syncs projects from PPMS with valid RDMs to its database. So if you want to have an account in the [Pitschi](pitschi.rcc.uq.edu.au) website, make sure you are in a PPMS project with valid RDM. 
 
+# Ming's ( Hawken) comments
+
+Test scenarios of PPMS tracker & Pitschi in Hawken lab – Hitachi SU3500B
+1.	People forget to log out when they finish the sessions:
+Suggestion: It would be great if Tracker interface has more reminding message. At the same time, the trainers will give more education of the clients.
+2.	There is no log out confirmation when logging out:
+Suggestion: People like me get paranoid if I did not log out properly. Can we give a “log-out confirmation” message when logging out? Yes, UQ login interface does not have a log out confirmation. But it is not money related. People like me prefer there is a proper confirmation message on of log-out. 
+3.	More explicit explanation of FAQ:
+Suggestion: Clients will worry about their data flow. Can we be more specific about how pitschi handle the data, instead of just using the verb “capture”?
+4.	Client A booked session from 3:00 to 5:00 PM. Around 5:00 PM he/she decided to carry on the characterisation till 6:00 PM. Later, he added the “make-up” booking “5:00 PM - 6:00 PM” around 6:00 PM. The row “not booked” of PPMS system did not be overruled by the later “make-up” booking.
+Question: will his data from 5:00 to 6:00 PM safely store in the local computer and his own project RDM? How will Pitschi response and how will billing work in this scenario? 
+5.	EBSD and probe will have a long-time data acquisition scenario (overnight), no CMM staff will monitor. if a client logged in and set up the parameters and log out. After a couple of hours, he/she came back to log in again and turn off the beam and log out. The real usage time will not be monitored.
+Comment: Tracker does not have a solution for this scenario. Can we improve it?
+6.	Large dataset transferring: A and B had a back-to-back booking. When A need to log out at the end of session for B, how can we make sure if the data of A has been full transferred to A’s project RDM before switching to B’s RDM?
+Suggestion: The data-transfer speed need to be more explained. Some data can be TBs.
+Overall Comment:
+I believe our centre is meant to provide a robust system and to help the clients to acquire useful data.
+1.	Probably only 1% CMM clients would make cheeky booking. But 99% CMM clients are general very nice clients. But they do make silly booking mistakes. The Tracker/ Pitschi need to be more tolerate and forgivable to different scenarios.
+2.	Clients care about their data more than the bills. How to make sure their data will be safely handled is very critical for pitschi development.
+
+
 # I have an existing project in PPMS with an existing RDM. How do I ingest data to Pitschi ?
 The current phase of Pitschi rollout does not support existing projects. It means you keep doing what you have been doing. 
 
