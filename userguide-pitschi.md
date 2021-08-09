@@ -24,14 +24,10 @@
 > Please note that **it is compulsory to book your session in PPMS instrument booking system.**
 
 1) Once your PPMS account is approved by CMM staff. Please login to PPMS using your UQ username and password.
-<kbd>
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123127764-ec9b2580-d48d-11eb-89e8-3e9cdf7446b2.png">
-</kbd>
 2) On your home page please click on ‘Book’ on top bar.
 3) Please select the instrument from the list of instruments.
-<kbd>
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123132056-a8118900-d491-11eb-9495-3e10e5372f40.png">
-</kbd>
 4) On the booking calendar, please select **Project**, time slots to be booked and click the button **Book** the selected sessions.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123134935-a1d0dc00-d494-11eb-9037-0830c4012f02.png">
@@ -93,16 +89,15 @@ Once you finish the work please log out of the system.
 
 1) Once data syncing is complete you'll recieve first email - **successfully imported dataset to RDM**.
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126728380-e340740b-309a-4ac3-a671-d70b71708fee.png">
+<kbd><img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126728380-e340740b-309a-4ac3-a671-d70b71708fee.png"></kbd>
 
 2) Once data is improted successfully to project RDM you'll recieve another email - **Successully ingested dataset**, and pitschi will dismount RDM automatically.
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/128655101-8b486c4b-d47b-4871-8f7f-8ebd80dcc7cc.png">
 
-
+<kbd><img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/128655101-8b486c4b-d47b-4871-8f7f-8ebd80dcc7cc.png"></kbd>
 
 ## Step 7: Data ingestion to pitschi.
 
-<img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/126729355-dc171d50-fb70-4102-b1cc-c93316447d54.png">
+<kbd><img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/126729355-dc171d50-fb70-4102-b1cc-c93316447d54.png"></kbd>
 
 ## Step 8: Data ingestion to pitschi.
 
