@@ -1,5 +1,23 @@
 
 # PPMS TRACKER USER GUIDE
+## Admin mode
+If you need to enter the system as an admin, Please enter the backup code.
+<details>
+	
+	1. Click on the link ***use backup code to unlock***.
+	
+	2. Enter backup code in the text box ( Please note the backup code is the same phrase which use to login into 'cmmadmin' account. If you have any issues, please send an email to r.ali1@uq.edu.au)
+	
+	3. click on **'login'** button. Now you are in the system and can use it as an admin. 
+	
+<img width="700" alt="Screen Shot 2021-08-09 at 10 43 33 am" src="https://user-images.githubusercontent.com/42192079/128651500-4a6bdc86-73f9-4a23-baf4-92c67aef3d0b.png">
+
+
+
+</details>
+
+## User mode
+<details>
 
 ## Step 1: User registration in PPMS
 
@@ -52,3 +70,4 @@ Now you can use the system. Once you finish the work please log out of the syste
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123135563-4ce19580-d495-11eb-9311-f7067a7cd648.png">
 
+</details>
