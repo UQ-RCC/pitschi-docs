@@ -87,21 +87,24 @@ Once you finish the work please log out of the system.
 
 ## Step 6: First email - right after logout​.
 
-1) Once data syncing is complete you'll recieve first email - **successfully imported dataset to RDM**.
+Once data syncing is complete you'll recieve first email - **successfully imported dataset to RDM**.
 
 <kbd><img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126728380-e340740b-309a-4ac3-a671-d70b71708fee.png"></kbd>
 
-2) Once data is improted successfully to project RDM you'll recieve another email - **Successully ingested dataset**, and pitschi will dismount RDM automatically.
 
-<kbd><img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/128655101-8b486c4b-d47b-4871-8f7f-8ebd80dcc7cc.png"></kbd>
 
 ## Step 7: Data ingestion to pitschi.
 
-<kbd><img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/126729355-dc171d50-fb70-4102-b1cc-c93316447d54.png"></kbd>
+1. Ingest dataset to Clowder/Pitschi: Once data is improted successfully to project RDM you'll recieve another email - **Successully ingested dataset**, and pitschi will dismount RDM automatically. Email will provide you the links to acces your data in Pitschi ( CMM data repository), UQRDM and in CVL for image analysis.
 
-## Step 8: Data ingestion to pitschi.
+<kbd><img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/128655689-31ec6317-0a03-4dee-b146-9dc850200111.png"></kbd>
 
-1. Ingest dataset to Clowder/Pitschi​
+2. Login into Pitschi: 
+You can login into **Pitschi** either by clicking on the link provided in your email or using following URL.
+https://pitschi.rcc.uq.edu.au/login
+
+
+1. 
 
 2. Extract metadata ​
 
