@@ -96,6 +96,8 @@ Once you finish the work please log out of the system.
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126728380-e340740b-309a-4ac3-a671-d70b71708fee.png">
 
 2) Once data is improted successfully to project RDM you'll recieve another email - **Successully ingested dataset**, and pitschi will dismount RDM automatically.
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/128655101-8b486c4b-d47b-4871-8f7f-8ebd80dcc7cc.png">
+
 
 
 ## Step 7: Data ingestion to pitschi.
