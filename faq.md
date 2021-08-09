@@ -109,15 +109,14 @@ I believe our centre is meant to provide a robust system and to help the clients
 
 # I have an existing project in PPMS with an existing RDM. How do I ingest data to Pitschi ?
 
-![Screen Shot 2021-08-09 at 12 05 50 pm](https://user-images.githubusercontent.com/42192079/128654167-7400e2b8-f11b-46bb-be10-70b8b1f50202.png)
 
-![Screen Shot 2021-08-09 at 12 07 26 pm](https://user-images.githubusercontent.com/42192079/128654176-8400fdab-c8ad-4e59-8fac-a346f1176f5d.png)
 
 
 The current phase of Pitschi rollout does not support existing projects. It means you keep doing what you have been doing. 
 
 # Fee for service - booking
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123127393-9332f680-d48d-11eb-9aee-673bdfd03299.png">
+If you want to book a session 'Fee for service' for your clients, please book the session under your client name. When you'll login into PPMS tracker, it will automatically read the details from booked session that the session is for 'fee for service' and record the details accordingly.
 
-We decided to not touch the existing projects to minimise service interruptions. Once pitschi is in all the instruments, we will help users ingest existing data into Pitschi. 
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/128654167-7400e2b8-f11b-46bb-be10-70b8b1f50202.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/128654176-8400fdab-c8ad-4e59-8fac-a346f1176f5d.png">
