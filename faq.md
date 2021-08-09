@@ -118,4 +118,6 @@ The current phase of Pitschi rollout does not support existing projects. It mean
 
 # Fee for service - booking
 
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123127393-9332f680-d48d-11eb-9aee-673bdfd03299.png">
+
 We decided to not touch the existing projects to minimise service interruptions. Once pitschi is in all the instruments, we will help users ingest existing data into Pitschi. 
