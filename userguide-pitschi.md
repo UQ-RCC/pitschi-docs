@@ -106,9 +106,14 @@ https://pitschi.rcc.uq.edu.au/login
 <kbd><img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/128656169-73bd3394-0c96-4dfa-aac1-04476ef3c74e.png"></kbd>
 
 
+<kbd><img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/128657500-9d4fe7a1-634f-4862-b3ec-cb37a0a74fbe.png"></kbd>
+
 
 
 2. Extract metadata ​
 
+In Pitschi, you would be able to retrieve or add any kind of details/metadata your dataset contain.
+
+<kbd><img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/128658224-c66edace-350e-4485-ac9b-1788d521945e.png"></kbd>
 
 
