@@ -103,8 +103,10 @@ Once data syncing is complete you'll recieve first email - **successfully import
 You can login into **Pitschi** either by clicking on the link provided in your email or using following URL.
 https://pitschi.rcc.uq.edu.au/login
 
+<kbd><img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/128656169-73bd3394-0c96-4dfa-aac1-04476ef3c74e.png"></kbd>
 
-1. 
+
+
 
 2. Extract metadata ​
 
