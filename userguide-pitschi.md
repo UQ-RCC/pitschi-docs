@@ -24,14 +24,14 @@
 > Please note that **it is compulsory to book your session in PPMS instrument booking system.**
 
 1) Once your PPMS account is approved by CMM staff. Please login to PPMS using your UQ username and password.
-
+<kbd>
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123127764-ec9b2580-d48d-11eb-89e8-3e9cdf7446b2.png">
-
+</kbd>
 2) On your home page please click on ‘Book’ on top bar.
 3) Please select the instrument from the list of instruments.
-
+<kbd>
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123132056-a8118900-d491-11eb-9495-3e10e5372f40.png">
-
+</kbd>
 4) On the booking calendar, please select **Project**, time slots to be booked and click the button **Book** the selected sessions.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123134935-a1d0dc00-d494-11eb-9037-0830c4012f02.png">
