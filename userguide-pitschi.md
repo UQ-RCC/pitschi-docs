@@ -93,7 +93,7 @@ Once data syncing is complete you'll recieve first email - **successfully import
 
 
 
-## Step 7: Data ingestion to pitschi.
+## Step 7: Second email - after data ingestion to pitschi.
 
 1. Ingest dataset to Clowder/Pitschi: Once data is improted successfully to project RDM you'll recieve another email - **Successully ingested dataset**, and pitschi will dismount RDM automatically. Email will provide you the links to acces your data in Pitschi ( CMM data repository), UQRDM and in CVL for image analysis.
 
