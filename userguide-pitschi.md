@@ -72,7 +72,7 @@ If you see the above messgae on your screen, please log out of the PPMS Tracker 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126724917-ebdbcd6d-e8ae-48c5-9b05-fa547abd32fb.png">
 
 4) Please open **Today** folder. create a new folder with the name you want for your data. For example **Test-23072021**
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126727634-cfc6907d-665c-459d-95f0-f498b7c23e52.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/138631760-c1300d85-7895-4cc5-a153-736642249b38.png">
 
 5) Please drop your data in the folder.
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126727644-a9bdb554-9a33-4e3a-8f60-8c1e290834b5.png">
