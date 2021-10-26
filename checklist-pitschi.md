@@ -8,8 +8,8 @@
 - [ ] create a new folder within 'today' folder.  
 - [ ] drop your acquired data in newly created folder.
 - [ ] log out of PPMS Tracker.  
-- [ ] recieved first email to confirm data have been imported to RDM collection.
-- [ ] received second email to confirm data have been ingested into pitschi.
+- [ ] receive first email to confirm data have been imported to RDM collection.
+- [ ] receive second email to confirm data have been ingested into pitschi.
 
 
 | ### Checklist           |  | 
@@ -20,7 +20,7 @@
 | create a new folder within 'today' folder.| 🔲  
 | drop your acquired data in newly created folder.| 🔲  
 | log out of PPMS Tracker. | 🔲  
-| recieved first email to confirm data have been imported to RDM collection.| 🔲  
-| received second email to confirm data have been ingested into pitschi.| 🔲  
+| receive first email to confirm data have been imported to RDM collection.| 🔲  
+| receive second email to confirm data have been ingested into pitschi.| 🔲  
 
 If you have issues with any of the above tasks, please contact us at pitschi@uq.edu.au
