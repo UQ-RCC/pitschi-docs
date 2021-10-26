@@ -1,6 +1,6 @@
 ![image](images/pitschiLogo.jpg)
 
-### Particle Imaging depoT using Storage caCHing Infrastructure checklist
+## Particle Imaging depoT using Storage caCHing Infrastructure 
 
 - [ ] book session in PPMS.
 - [ ] login in to PPMS Tracker on instrument.
@@ -12,7 +12,7 @@
 - [ ] received second email to confirm data have been ingested into pitschi.
 
 
-| Checklist           |  | 
+| ### Checklist           |  | 
 |----------------|-----------|
 | book session in PPMS. | 🔲  
 | login in to PPMS Tracker on instrument. | 🔲  
