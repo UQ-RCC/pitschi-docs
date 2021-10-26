@@ -4,7 +4,7 @@
 
 ## Particle Imaging depoT using Storage caCHing Infrastructure 
 
-| Checklist           |  | 
+| Pitschi Checklist           |  | 
 |----------------|-----------|
 | <div align="left"> Book session in PPMS.</div> | 🔲  
 | <div align="left"> Login in to PPMS Tracker on instrument.</div> | 🔲  
