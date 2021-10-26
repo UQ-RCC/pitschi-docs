@@ -15,6 +15,6 @@
 | <div align="left"> First email received to confirm data have been imported to RDM collection.</div>| 🔲  
 | <div align="left"> Second email received to confirm data have been ingested into pitschi.</div>| 🔲  
 
-### If you have issues with any of the above tasks, please contact us at pitschi@uq.edu.au
+#### If you have issues with any of the above tasks, please contact us at pitschi@uq.edu.au
 </div>
 
