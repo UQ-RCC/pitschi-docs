@@ -12,7 +12,7 @@
 - [ ] received second email to confirm data have been ingested into pitschi.
 
 
-| Task           | Done | 
+| Checklist           |  | 
 |----------------|-----------|
 | book session in PPMS. | 🔲  
 | login in to PPMS Tracker on instrument. | 🔲  
