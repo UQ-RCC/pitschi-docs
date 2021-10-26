@@ -1,10 +1,11 @@
-### Pitschi Checklist
+![image](images/pitschi.png)
+### Particle Imaging depoT using Storage caCHing Infrastructure checklist
 
-- [ ] Book session in PPMS.
+- [ ] book session in PPMS.
 - [ ] login in to PPMS Tracker on instrument.
 - [ ] check if there is any 'today' folder on Desktop. 
 - [ ] create a new folder within 'today' folder.  
-- [ ] Drop your acquired data in newly created folder.
+- [ ] drop your acquired data in newly created folder.
 - [ ] log out of PPMS Tracker.  
 - [ ] recieved first email to confirm data have been imported to RDM collection.
 - [ ] received second email to confirm data have been ingested into pitschi.
