@@ -1,4 +1,5 @@
-![image](images/pitschi.png)
+![pitschiLogo](https://user-images.githubusercontent.com/42192079/138810672-1a879b9d-b0fd-4d92-809e-980a1e6f99cc.jpg)
+
 ### Particle Imaging depoT using Storage caCHing Infrastructure checklist
 
 - [ ] book session in PPMS.
