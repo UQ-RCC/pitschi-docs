@@ -120,3 +120,26 @@ If you want to book a session 'Fee for service' for your clients, please book th
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/128654167-7400e2b8-f11b-46bb-be10-70b8b1f50202.png">
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/128654176-8400fdab-c8ad-4e59-8fac-a346f1176f5d.png">
+
+# Erica's Questions:
+
+Our understanding is RDM is project based so you only need to link one RDM to access all CMM instruments?
+
+What happens if a client has more than 1 project?
+
+How can you link an existing RDM account? On the UQRDM request form it is only to create new accounts. Can we have something where they can input their collection number to link??
+
+Andrew setup some RDM instrument accounts can we use them?
+
+AIBN RDM for staff – still need to book under a client for fee for service?
+
+Pay for service – log in as myself (no option to select client)??
+
+When to use back up code.
+
+Not working at the moment, people are not logging in/out – short notice of its roll out on the HT7700’s, email sent the night before many people would not have read it, need something in PPMS to inform them when booking the instrument or something to force them to read before booking. Can we have a sign/checklist to put on the microscopes?
+
+
+
+
+
