@@ -8,7 +8,7 @@
 |----------------|-----------|
 | <div align="left"> Book session in PPMS.</div> | 🔲  
 | <div align="left"> Login in to PPMS Tracker on instrument.</div> | 🔲  
-| <div align="left"> Check if there is any 'today' folder on Desktop. </div>| 🔲  
+| <div align="left"> Check if there is any 'today' folder on Desktop. .  If there is no 'today' folder on the desktop, please continue to save your data as normal. You do not have a RDM linked to Pitschi yet </div>| 🔲  
 | <div align="left"> Create a new folder within 'today' folder.</div>| 🔲  
 | <div align="left"> Make sure to direct output data to the newly created folder.</div>| 🔲  
 | <div align="left"> Log out of PPMS Tracker.</div> | 🔲  
