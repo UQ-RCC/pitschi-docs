@@ -33,7 +33,7 @@ you need to select a project from the dropdown list, then enter the experiment n
 
 ![image](images/datamover/pitschi5.png)
 
-5) Once the experiment is started, it will show where you should drop the data from the camera machine. Pitschi will sync the data from there to your RDM periodically.  
+5) Once the experiment is started, it will show where you should drop the data from the camera machine. Pitschi will sync the data from there to your RDM periodically. The synced files and folders are to be displayed at the bottom of the page. 
 
 ![image](images/datamover/pitschi6.png)
 
@@ -41,6 +41,6 @@ you need to select a project from the dropdown list, then enter the experiment n
 
 ![image](images/datamover/pitschi7.png)
 
-7) You can also visit your previous experiments in the "History" tab.
+7) You can also visit your previous experiments in the "History" tab. Note that structore of folders and files displayed in each experiment are the same as they were created in the first place.  
 
 ![image](images/datamover/pitschi3.png)
