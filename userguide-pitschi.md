@@ -1,8 +1,9 @@
-
+<!---
 > ### Dos and Don'ts
 >
 > Please do  ...
 > Please do not ...
+-->
 
 ## Step 1: User registration in PPMS
 

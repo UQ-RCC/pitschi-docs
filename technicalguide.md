@@ -45,3 +45,8 @@ UQ users will need to use UQ SSO to log into Pitschi, while external accounts ar
 
 ## RDM ingestion
 ![image](images/rdm_ingestion.png)
+
+# Pitschi datamover
+Pitschi datamover is a Web service in the Pitschi ecosystem. Its job is to sync data from the camera computer to the RDM. The datamover is often installed in an intermediate computer (support PC, preprocessing machine, etc) and it syncs the data from the camera computer to the project's RDM periodically. 
+
+The datamover is created to compliment Pitschi's direct dataflow where data is transfer directly from camera computer to the RDM. From experience, there are many instruments that either PPMS Tracker cannot be installed, or RDM collections cannot be mounted. 
