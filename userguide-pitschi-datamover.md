@@ -1,6 +1,8 @@
 Pitschi datamover is a Web service that is in charge of syncing data from the instrument computer to the project's RDM collection via an intermediate computer (support machine or preprocessing machine). This guide is to show you how to use it, and the steps on how to prepare your project with Pitschi.
 
+
 # Setup
+
 
 <span style="color:red">Please note that this setup process takes time as some steps need to be done by other IT personnels at UQ </span>
 
@@ -11,7 +13,9 @@ Pitschi datamover is a Web service that is in charge of syncing data from the in
 
 5. We will send you a confirmation email once the setup is completed. 
 
+
 # Usage
+
 
 1) Open Firefox in the camera machine. Click on the "Pitschi datamover" button in the bookmark toolbar. It will take you to the [Australian Access Federation](https://aaf.edu.au) single signon page. 
 
