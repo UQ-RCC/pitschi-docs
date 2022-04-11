@@ -2,7 +2,7 @@ Pitschi datamover is a Web service that is in charge of syncing data from the in
 
 # Setup
 
-<span style="color:yellow">Please note that this setup process takes time as some steps need to be done by other IT personnels at UQ </span>
+<span style="color:red">Please note that this setup process takes time as some steps need to be done by other IT personnels at UQ </span>
 
 1. First you need to make sure you have an account, and an active project in PPMS
 2. Second you need to make sure you have an existing RDM for your project. If you do not have a RDM, please request one at (https://rdm.uq.edu.au/). Please make sure you tick the option "**The project data needs to be mounted on UQ HPC facilities**"
