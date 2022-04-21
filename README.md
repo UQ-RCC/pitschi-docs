@@ -93,13 +93,6 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=16">JEOL NEOSCOPE</a></td>
-        <td>AIBN</td>
-        <td>117</td>
-        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
-        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
-    </tr>
-    <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=20">HITACHI HT7700-A</a></td>
         <td>AIBN</td>
         <td>125</td>
