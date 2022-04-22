@@ -2,7 +2,7 @@
 
 <img src="images/pitschiLogoWithCopyright.png" alt="pitschilogo" style="max-height:200px;max-width: 280px;float: right;"/>  
 
-Pitschi (Particle Imaging depoT using Storage caCHing Infrastructure) is a data repository for [the Centre for Microscopy and Microanalysis](https://cmm.centre.uq.edu.au/) that is built on top of [Clowder data management framework](https://github.com/clowder-framework/).
+Pitschi (Particle Imaging depoT using Storage caCHing Infrastructure) is a data repository for [the Centre for Microscopy and Microanalysis](https://cmm.centre.uq.edu.au/) that is built on top of [Clowder data management framework](https://github.com/clowder-framework/). 
 
 Pitschi aims to:
 * provide an end-to-end process: from capturing, transferring raw data to storage collections and indexing the data
@@ -10,7 +10,7 @@ Pitschi aims to:
 * harvest as much metadata as possible
 * provide simple ways for users to deposit data
 
-In order to do so, Pitschi integrates multiple services available to UQ, inclyding:
+In order to do so, Pitschi integrates multiple services available to UQ, including:
 * [PPMS booking system](https://www.stratocore.com/) 
 * [UQ RDM](https://research.uq.edu.au/rmbt/uqrdm) for data movement and ingestion. 
 * [MeDiCI (Metropolitan Data Caching Infrastructure) data fabrics](https://rcc.uq.edu.au/data-storage)
@@ -167,3 +167,5 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     
 </table>
+
+## <a href="/pitschi-docs/#/technicalguide">Technical Details</a>
