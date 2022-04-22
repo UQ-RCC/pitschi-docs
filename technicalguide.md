@@ -5,7 +5,15 @@ In construction
 This technical guide explains the components of Pitschi and how they work together.
 
 # Components
-![image](images/pitschi_components.png)
+Pitschi employs two methods of moving data from instrument computer (camera computer to be exact) to the RDM. 
+
+If Pitschi can be installed directly into the camera computer, it will use the direct transfer method.
+
+![image](images/direct-sync.png)
+
+In for some reasons, the camera computer cannot be modified, or the RDM cannot be mounted directly to the camera computer, then the indirect method is used. In this mode, the data is synced via a third party computer (support machine, preprocessing computer).
+
+![image](images/indirect-sync.png)
 
 Pitschi relies on the [MeDICI](https://rcc.uq.edu.au/data-storage) for data movement and [UQ RDM](https://research.uq.edu.au/rmbt/uqrdm) for data storage. The booking information is queried from PPMS.
 
@@ -13,6 +21,7 @@ Pitschi consists of the following components:
 * **[Clowder](github.com/UQ-RCC/clowder)**: a modified version of the Clowder framework for data management and automatic metadata extraction
 * **[XAPI](github.com/UQ-RCC/xapi)**: an API to manage data importation from RDM storage collections. The booking information from PPMS is cached in this XAPI as well. 
 * **[Pitschi-cli](github.com/UQ-RCC/pitschi-cli)**: A desktop client residing in the instrument computers for syncing datasets and files to the project's storage collection.  
+* **[DataMover](github.com/UQ-RCC/pitschidatamover)**: a Web service to handle 1) mounting of correct collection to the third party computer 2) sync the data and 3) ingest the data to Clowder. This Web service provides a client, which can be accessible from the camera machine.
 
 # Deployment
 Pitschi is deployed on a [Docker Swarm Cluster](https://docs.docker.com/engine/swarm/) on top of the [QRISCloud](https://www.qriscloud.org.au/) (OpenStack) research cloud. [Ansible](https://www.ansible.com/) 2.9 is used provision the stack. The deployment code can be found [here](https://github.com/UQ-RCC/ansible-swarm-clowder)
@@ -43,10 +52,8 @@ UQ users will need to use UQ SSO to log into Pitschi, while external accounts ar
 ## Web ingestion
 ![image](images/webingestion.png)
 
-## RDM ingestion
+## RDM ingestion - direct
 ![image](images/rdm_ingestion.png)
 
-# Pitschi datamover
-Pitschi datamover is a Web service in the Pitschi ecosystem. Its job is to sync data from the camera computer to the RDM. The datamover is often installed in an intermediate computer (support PC, preprocessing machine, etc) and it syncs the data from the camera computer to the project's RDM periodically. 
-
-The datamover is created to compliment Pitschi's direct dataflow where data is transfer directly from camera computer to the RDM. From experience, there are many instruments that either PPMS Tracker cannot be installed, or RDM collections cannot be mounted. 
+## RDM ingestion - indirect
+![image](images/rdm-indirect-ingestion.png)
