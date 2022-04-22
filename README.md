@@ -24,6 +24,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
 <table>
     <tr>
         <th>Instrument</th>
+        <th>Type</th>
         <th>Lab</th>
         <th>Location</th>
         <th>User Guide</th>
@@ -31,6 +32,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=52">KRATOS XPS</a></td>
+        <td>X-RAY FACILITIES</td>
         <td>CHEMISTRY</td>
         <td>206</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -38,6 +40,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=15">PHILIPS XL30</a></td>
+        <td>SEM</td>
         <td>HAWKEN</td>
         <td>L121</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -45,6 +48,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=137">HITACHI TM4000</a></td>
+        <td>SEM</td>
         <td>AIBN</td>
         <td>120</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -52,6 +56,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=171">HITACHI SU3500B</a></td>
+        <td>SEM</td>
         <td>HAWKEN</td>
         <td>L103</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -59,6 +64,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=53">RIGAKU THIN-FILM XRD</a></td>
+        <td>X-RAY FACILITIES</td>
         <td>CHEMISTRY</td>
         <td>206</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -66,6 +72,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=156">REFEYN ONE MP</a></td>
+        <td>MASS PHOTOMETRY</td>
         <td></td>
         <td>80</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -73,6 +80,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=105">HAWKEN RAMAN</a></td>
+        <td></td>
         <td>AIBN</td>
         <td>L4 EAST AIBN</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -80,6 +88,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=96">LITHOGRAPHY RAITH E-LINE PLUS SEM</a></td>
+        <td>ELECTRON BEAM</td>
         <td></td>
         <td>L116</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -87,6 +96,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=16">JEOL NEOSCOPE</a></td>
+        <td>SEM</td>
         <td>AIBN</td>
         <td>117</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -94,6 +104,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=20">HITACHI HT7700-A</a></td>
+        <td>TEM</td>
         <td>AIBN</td>
         <td>125</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -108,6 +119,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr> -->
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=22">TECNAI F30</a></td>
+        <td>TEM</td>
         <td>QBP</td>
         <td>2.154</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -115,6 +127,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=210">OLYMPUS DSX-1000</a></td>
+        <td>LIGHT MICROSCOPES</td>
         <td>HAWKEN</td>
         <td>L103</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -122,13 +135,15 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=205">MICROTRAC SYNC</a></td>
+        <td>PARTICLE CHARACTERISATION</td>
         <td>AIBN</td>
         <td>113</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=205">JEOL 1011</a></td>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=24">JEOL 1011</a></td>
+        <td>TEM</td>
         <td>QBP</td>
         <td>2.148</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -136,6 +151,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=157">JEOL CRYO-ARM-200</a></td>
+        <td>TEM</td>
         <td>QBP</td>
         <td>2.157</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi-datamover">User Guide</a></td>
@@ -143,6 +159,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, inclydi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=158">JEOL CRYO-ARM-300</a></td>
+        <td>TEM</td>
         <td>QBP</td>
         <td>2.154</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi-datamover">User Guide</a></td>
