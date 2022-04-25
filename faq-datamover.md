@@ -11,3 +11,17 @@ Assuming you have created an experiment called "firstexperiment", Pitschi only s
 The experiment is paused most likely due to the fact that the X drive is full. Before pausing the experiment, Pitschi has notified admin. If you still worry, please contact Lou.
 
 
+## 4. When should I start the experiment ?
+
+You should start the experiment right before you start collecting data.
+
+## 5. Do I have to stop my experiment ? 
+
+Yes
+
+## 6. What if I forgot to stop my experiment ? 
+
+The next user cannot start another experiment if the previous one forgot to stop it. Only admins (Lou, Matthias and myself) could stop other people's experiments.
+
+
+
