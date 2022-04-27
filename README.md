@@ -149,6 +149,14 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
+        <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=204">MICROTRAC CAMSIZER M1</a></td>
+        <td>PARTICLE CHARACTERISATION</td>
+        <td>AIBN</td>
+        <td>113</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=157">JEOL CRYO-ARM-200</a></td>
         <td>TEM</td>
