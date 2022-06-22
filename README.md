@@ -112,6 +112,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=21">HITACHI HT7700-B</a></td>
+        <td>TEM</td>
         <td>AIBN</td>
         <td>124</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
