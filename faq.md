@@ -100,6 +100,24 @@ If you want to book a session 'Fee for service' for your clients, please book th
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/128654176-8400fdab-c8ad-4e59-8fac-a346f1176f5d.png">
 
 
+# Reporting Pitschi dataset import or ingest errors
+
+If you experience Pitschi dataset import or ingest problems, please open
+Windows Command Prompt on the instrument computer and provide the following
+files with your report:
+
+1. `pitschicli.log-YYYY-MM-DD`, capture using
+   `copy C:\pitschi\pitschicli.log-YYYY-MM-DD .`
+   (replace `YYYY-MM-DD` with the date the error occurred)
+
+2. `booking.json`, capture using `copy %HOMEPATH%\Desktop\today\booking.json .`
+
+3. `files.txt`, capture using `dir /b %HOMEPATH%\Desktop\today > files.txt`
+
+4. `pitschi.reg`, capture using `reg export HKCU\pitschi pitschi.reg`
+
+
+To open Windows Command Prompt, click *Start*, then type `cmd` and press Enter.
 
 
 # Ming's ( Hawken) comments
