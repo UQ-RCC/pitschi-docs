@@ -112,12 +112,12 @@ files with your report:
 
 2. `booking.json`, capture using `copy %HOMEPATH%\Desktop\today\booking.json .`
 
-3. `files.txt`, capture using `dir /b %HOMEPATH%\Desktop\today > files.txt`
+3. `files.txt`, capture using `dir /s /b %HOMEPATH%\Desktop\today > files.txt`
 
 4. `pitschi.reg`, capture using `reg export HKCU\pitschi pitschi.reg`
 
 
-To open Windows Command Prompt, click *Start*, then type `cmd` and press Enter.
+To open Windows Command Prompt, click **Start**, then type `cmd` and press Enter.
 
 
 # Ming's ( Hawken) comments

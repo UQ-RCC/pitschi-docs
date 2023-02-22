@@ -16,6 +16,19 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
 * [MeDiCI (Metropolitan Data Caching Infrastructure) data fabrics](https://rcc.uq.edu.au/data-storage)
 
 
+## User Guides
+
+### <a href="/pitschi-docs/#/userguide-tracker">Tracker only (for Clients)</a>
+
+### <a href="/pitschi-docs/#/userguide-tracker(admin)">Tracker only (for Admins)</a>
+
+### <a href="/pitschi-docs/#/userguide-pitschi">Pitschi</a>
+
+### <a href="/pitschi-docs/#/checklist-pitschi">Pitschi Checklist</a>
+
+### <a href="/pitschi-docs/#/faq">FAQ</a>
+
+
 ## Instruments
 <b>Instrument list</b> (Click on the instrument name to goto instrument calendar).
 
