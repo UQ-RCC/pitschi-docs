@@ -93,7 +93,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=105">HAWKEN RAMAN</a></td>
-        <td></td>
+        <td>RAMAN</td>
         <td>AIBN</td>
         <td>L4 EAST AIBN</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
@@ -187,6 +187,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/userguide-pitschi-datamover">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq-datamover">FAQs</a></td>
     </tr>
+    
     
 </table>
 
