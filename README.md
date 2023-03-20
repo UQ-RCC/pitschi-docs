@@ -45,10 +45,50 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <th>FAQs</th>
     </tr>
     <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=137">HITACHI TM4000</a></td>
-        <td>SEM</td>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=137">NIKON C2SI UPRIGHT CONFOCAL</a></td>
+        <td>LIGHT MICROSCOPES</td>
         <td>AIBN</td>
-        <td>120</td>
+        <td>114</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=137">NIKON ECLIPSE TI INVERTED FLOURESCENCE</a></td>
+        <td>LIGHT MICROSCOPES</td>
+        <td>AIBN</td>
+        <td>117</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=137">LEICA LMD7 LASER DISSECTION LIGHT MICROSC </a></td>
+        <td>LIGHT MICROSCOPES</td>
+        <td>AIBN</td>
+        <td>114</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=204">MMNPCF MICROTRAC CAMSIZER M1</a></td>
+        <td>PARTICLE CHARACTERISATION</td>
+        <td>AIBN</td>
+        <td>113</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=205">MMNPCF MICROTRAC SYNC</a></td>
+        <td>PARTICLE CHARACTERISATION</td>
+        <td>AIBN</td>
+        <td>113</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+     <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=227">MMNPCF NANOFCM NANOANALYZER</a></td>
+        <td>PARTICLE CHARACTERISATION</td>
+        <td>AIBN</td>
+        <td>L5E</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
@@ -57,6 +97,30 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td>SEM</td>
         <td>AIBN</td>
         <td>117</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=16">ZEISS SIGMA</a></td>
+        <td>SEM</td>
+        <td>AIBN</td>
+        <td>119</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=137">HITACHI TM4000</a></td>
+        <td>SEM</td>
+        <td>AIBN</td>
+        <td>120</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=16">SU 3900</a></td>
+        <td>SEM</td>
+        <td>AIBN</td>
+        <td>120</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
@@ -77,23 +141,23 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=204">MICROTRAC CAMSIZER M1</a></td>
-        <td>PARTICLE CHARACTERISATION</td>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=105">HAWKEN RAMAN</a></td>
+        <td>RAMAN</td>
         <td>AIBN</td>
-        <td>113</td>
-        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
-        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=205">MICROTRAC SYNC</a></td>
-        <td>PARTICLE CHARACTERISATION</td>
-        <td>AIBN</td>
-        <td>113</td>
+        <td>L4 EAST AIBN</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=52">KRATOS XPS</a></td>
+        <td>X-RAY FACILITIES</td>
+        <td>CHEMISTRY</td>
+        <td>206</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=257">SKYSCAN</a></td>
         <td>X-RAY FACILITIES</td>
         <td>CHEMISTRY</td>
         <td>206</td>
@@ -117,6 +181,14 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=9">HITACHI SU3500A</a></td>
+        <td>SEM</td>
+        <td>HAWKEN</td>
+        <td>L120</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=171">HITACHI SU3500B</a></td>
         <td>SEM</td>
         <td>HAWKEN</td>
@@ -125,25 +197,9 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=156">REFEYN ONE MP</a></td>
-        <td>MASS PHOTOMETRY</td>
-        <td></td>
-        <td>80</td>
-        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
-        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=105">HAWKEN RAMAN</a></td>
-        <td>RAMAN</td>
-        <td>AIBN</td>
-        <td>L4 EAST AIBN</td>
-        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
-        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
-    </tr>
-    <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=96">LITHOGRAPHY RAITH E-LINE PLUS SEM</a></td>
         <td>ELECTRON BEAM</td>
-        <td></td>
+        <td>HAWKEN</td>
         <td>L116</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
@@ -153,6 +209,14 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td>LIGHT MICROSCOPES</td>
         <td>HAWKEN</td>
         <td>L103</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>  
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=156">REFEYN ONE MP</a></td>
+        <td>MASS PHOTOMETRY</td>
+        <td>QBP</td>
+        <td>80</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
