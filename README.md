@@ -28,6 +28,9 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
 
 ### <a href="/pitschi-docs/#/faq">FAQ</a>
 
+### <a href="/pitschi-docs/#/howto">UQRDM collection - how to? </a>
+
+
 
 ## Instruments
 <b>Instrument list</b> (Click on the instrument name to goto instrument calendar).
