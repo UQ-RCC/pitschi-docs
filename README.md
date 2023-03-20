@@ -45,7 +45,23 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <th>FAQs</th>
     </tr>
     <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=137">HITACHI TM4000</a></td>
+        <td>SEM</td>
+        <td>AIBN</td>
+        <td>120</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=52">KRATOS XPS</a></td>
+        <td>X-RAY FACILITIES</td>
+        <td>CHEMISTRY</td>
+        <td>206</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=53">RIGAKU THIN-FILM XRD</a></td>
         <td>X-RAY FACILITIES</td>
         <td>CHEMISTRY</td>
         <td>206</td>
@@ -61,14 +77,6 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=137">HITACHI TM4000</a></td>
-        <td>SEM</td>
-        <td>AIBN</td>
-        <td>120</td>
-        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
-        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
-    </tr>
-    <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=171">HITACHI SU3500B</a></td>
         <td>SEM</td>
         <td>HAWKEN</td>
@@ -76,14 +84,7 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
-    <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=53">RIGAKU THIN-FILM XRD</a></td>
-        <td>X-RAY FACILITIES</td>
-        <td>CHEMISTRY</td>
-        <td>206</td>
-        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
-        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
-    </tr>
+  
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=156">REFEYN ONE MP</a></td>
         <td>MASS PHOTOMETRY</td>
