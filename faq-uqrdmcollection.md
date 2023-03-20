@@ -23,10 +23,11 @@ please do the following:
 - Add pitschi@uq.edu.au as a collaborator in the Q-collection.
 - Please send the **UQRDM collection ID** to cmm-support@uq.edu.au.
 
+If you dont know where to find your collection ID, please click on **details**
 <details>
 	
 ### Where to find the UQRDM collection ID?
-Please follow the instructions to rename your UQRDM collection. 
+Please follow the instructions to find your UQRDM collection ID. 
   
 1. Please click on the following link to login into your UQRDM collection with your UQ credentials.
   http://rdm.uq.edu.au/
@@ -47,6 +48,8 @@ Please follow the instructions to rename your UQRDM collection.
 ### Option 2: If you do not have any UQRDM collection
 
 If you do not have a UQRDM collection that meets the above requirements, you need to create a new one.
+
+If you dont know how to create a new collection, please click on **details**
 
 <details>
 	
