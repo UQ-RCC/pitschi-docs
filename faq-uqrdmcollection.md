@@ -14,7 +14,9 @@ You can use it for your CMM project only if:
 - It is linked to your CMM project registered in [RIMS](https://rims.uq.edu.au/login/?pf=2).
 - It is mountable to HPCs at UQ (so-called Q-collection).
 
+
 <img src="images/checkQcollection.jpg" alt="Qcollection" style="max-height:200px;max-width: 280px;float: right;"/> 
+
 
 please do the following:
 
@@ -29,11 +31,16 @@ Please follow the instructions to rename your UQRDM collection.
 	1. Please click on the following link to login into your UQRDM collection with your UQ credentials.
   http://rdm.uq.edu.au/
 	
+	
 	2. After login, please click on ‘Access Storage’.
+	
   <img src="images/findUQRDMcollectionID.jpg" alt="Qcollection" style="max-height:50px;max-width: 70px;float: right;"/> 
 	
+	
 	3. It’ll open another window with your UQRDM collection ID. 
+	
 <img src="images/findUQRDMcollectionID-1.jpg" alt="Qcollection" style="max-height:50px;max-width: 70px;float: right;"/> 
+	
 	
 </details>
 
@@ -44,23 +51,33 @@ If you do not have a UQRDM collection that meets the above requirements, you nee
 <details>
 	
 ### How to create a new UQRDM collection?
+	
 Please follow the instructions to create your new UQRDM collection. 
   
 	1. Please click on the following link to create a new UQRDM collection for PITSCHI and login with your UQ credentials. 
   http://rdm.uq.edu.au/
 	
+	
 	2. Click on ‘ Create new record’ on left sidebar of the page and add all details asked in the form.
+	
 
 	3. When it asks for Project name, please enter your complete ‘PPMS Project title’ (see screenshot below). 
+	
 <img src="images/createUQRDMcollectionID.jpg" alt="Qcollection" style="max-height:50px;max-width: 70px;float: right;"/> 
+	
   
   4. Please add pitschi@uq.edu.au as collaborator in the record. 
-<img src="images/createUQRDMcollectionID-1.jpg" alt="Qcollection" style="max-height:50px;max-width: 70px;float: right;"/> 
+	
+<img src="images/createUQRDMcollectionID-1.jpg" alt="Qcollection" style="max-height:50px;max-width: 70px;float: right;"/>
+	
 	  
   5.	Under ‘data storage options’ please select ‘ project data needs to be mounted on UQ HPC facilities
+	
   <img src="images/createUQRDMcollectionID-2.jpg" alt="Qcollection" style="max-height:50px;max-width: 70px;float: right;"/> 
+	
   
   6.	When you submit the form, and receive a confirmation from UQRDM team, please send the UQRDM collection number to cmm-support@uq.edu.au
+	
 
 </details>
 
