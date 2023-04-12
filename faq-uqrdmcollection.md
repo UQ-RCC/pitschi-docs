@@ -23,11 +23,8 @@ please do the following:
 - Add pitschi@uq.edu.au as a collaborator in the Q-collection.
 - Please send the **UQRDM collection ID** to cmm-support@uq.edu.au.
 
-If you dont know where to find your collection ID, please click on **details**
-
 <details>
-	
-Where to find the UQRDM collection ID?
+	<summary><h3> Click here if you don't know where to find your collection ID?</h3></summary>
 	
 Please follow the instructions to find your UQRDM collection ID. 
 	
@@ -54,9 +51,8 @@ If you do not have a UQRDM collection that meets the above requirements, you nee
 If you dont know how to create a new collection, please click on **details**
 
 <details>
-	
-How to create a new UQRDM collection?
-	
+	<summary><h3> Click here if you don't know how to create a new UQRDM collection?</h3></summary>
+
 Please follow the instructions to create your new UQRDM collection. 
 	
 	  
