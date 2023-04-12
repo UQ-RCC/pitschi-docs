@@ -35,14 +35,13 @@ Please follow the instructions to find your UQRDM collection ID.
 
 2. After login, please click on ‘Access Storage’.
 	
-  <img src="images/findUQRDMcollectionID.jpg" alt="Qcollection" style="max-height200px;max-width: 280px;float: right;"/> 
+![alt text](images/findUQRDMcollectionID.jpg "Please click on Access Storage")
 	
 	
 3. It’ll open another window with your UQRDM collection ID. 
 	
-<img src="images/findUQRDMcollectionID-1.jpg" alt="Qcollection" style="max-height:200px;max-width: 280px;float: right;"/> 
-	
-	
+![alt text](images/findUQRDMcollectionID-1.jpg "here is the Q collection ID")
+		
 </details>
 
 ### Option 2: If you do not have any UQRDM collection
@@ -66,20 +65,19 @@ Please follow the instructions to create your new UQRDM collection.
 
 	3. When it asks for Project name, please enter your complete ‘PPMS Project title’ (see screenshot below). 
 	
-<img src="images/createUQRDMcollectionID.jpg" alt="Qcollection" style="max-height:200px;max-width: 280px;float: right;"/> 
 	
+![alt text](images/createUQRDMcollectionID.jpg "Click on ‘Create new record’ and enter your complete ‘PPMS Project title’")
+		
   
-  4. Please add pitschi@uq.edu.au as collaborator in the record. 
+ 	4. Please add pitschi@uq.edu.au as collaborator in the record. 
 	
-<img src="images/createUQRDMcollectionID-1.jpg" alt="Qcollection" style="max-height:200px;max-width: 280px;float: right;"/>
-	
+![alt text](images/createUQRDMcollectionID-1.jpg "add pitschi@uq.edu.au as collaborator")
 	  
-  5.	Under ‘data storage options’ please select ‘ project data needs to be mounted on UQ HPC facilities
+ 	5.	Under ‘data storage options’ please select ‘project data needs to be mounted on UQ HPC facilities'
 	
-  <img src="images/createUQRDMcollectionID-2.jpg" alt="Qcollection" style="max-height:200px;max-width: 280px;float: right;"/> 
-	
+ ![alt text](images/createUQRDMcollectionID-2.jpg "select ‘project data needs to be mounted on UQ HPC facilities'")
   
-  6.	When you submit the form, and receive a confirmation from UQRDM team, please send the UQRDM collection number to cmm-support@uq.edu.au
+  	6.	When you submit the form, and receive a confirmation from UQRDM team, please send the UQRDM collection number to cmm-support@uq.edu.au
 	
 
 </details>
