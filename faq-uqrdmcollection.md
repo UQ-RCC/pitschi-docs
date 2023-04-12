@@ -28,14 +28,17 @@ please do the following:
 	
 Please follow the instructions to find your UQRDM collection ID. 
 	
+	
 	1. Please click on the following link to login into your UQRDM collection with your UQ credentials.
   http://rdm.uq.edu.au/
+	
 	
 	
 	2. After login, please click on ‘Access Storage’.
 	
 	
 ![alt text](images/findUQRDMcollectionID.jpg "Please click on Access Storage")
+	
 	
 	3. It’ll open another window with your UQRDM collection ID. 
 	
