@@ -15,7 +15,7 @@ You can use it for your CMM project only if:
 - It is mountable to HPCs at UQ (so-called Q-collection).
 
 
-<img src="images/checkQcollection.jpg" alt="Qcollection" style="max-height:200px;max-width: 280px;float: right;"/> 
+![alt text](images/checkQcollection.jpg "Example Q collection")
 
 
 please do the following:
