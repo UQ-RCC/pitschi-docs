@@ -211,7 +211,15 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td>L103</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
-    </tr>  
+    </tr> 
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=277">ZEISS LSM 900 CRYO</a></td>
+        <td>LIGHT MICROSCOPES</td>
+        <td>QBP</td>
+        <td>80</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=156">REFEYN ONE MP</a></td>
         <td>MASS PHOTOMETRY</td>
