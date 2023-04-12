@@ -24,6 +24,7 @@ please do the following:
 - Please send the **UQRDM collection ID** to cmm-support@uq.edu.au.
 
 If you dont know where to find your collection ID, please click on **details**
+
 <details>
 	
 Where to find the UQRDM collection ID?
