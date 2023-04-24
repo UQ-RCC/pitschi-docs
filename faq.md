@@ -92,6 +92,43 @@ Instead, it syncs projects from PPMS with valid RDMs to its database. So if you 
 **Fill up** the email template [here](mailto:pitschi@uq.edu.au?&subject=Pitschi%20datamover%20setup&body=To%20whom%20it%20may%20concern%2C%20%0A%0ACould%20you%20please%20help%20me%20with%20setting%20up%20Pitschi.%0A%0A%20%20%20%20Instrument%20name%3A%20%0A%20%20%20%20My%20PPMS%20project%20is%3A%20%0A%20%20%20%20My%20project%20RDM%20is%3A%20%0A%20%20%20%20Are%20you%20going%20to%20use%20CVL%40Wiener%20for%20processing%20%3F%20%5BYes%2FNo%5D%20%0A%0A%20Regards) **with your own details**. We will pickup the request from there.
 
 
+# How does Pitschi CLI select between the available RDM caches?
+
+The Pitschi CLI uses the following logic to work out which RDM cache to use:
+
+1. the initial mount point is set from `rootMount` in pitschi.conf
+
+2. the initial preferred cache is set from `preferredCache` in pitschi.conf,
+   the default is `qbi` if not set
+
+3. if the project has cache entries in Pitschi dashboard then
+
+   - change the mount point to the path of the first cache entry
+
+   - look for the preferred cache in the list of project caches, if found then
+     update mount point to the path of the matching cache entry
+
+
+For example:
+
+- pitschi.conf
+
+  - rootMount is `\\data.imb.uq.edu.au`, preferredCache is not set
+
+- project 1176 dashboard caches:
+
+  - priority: 2, path: `data.qbi.uq.edu.au`, name: `qbi`
+  - priority: 1, path: `data.imb.uq.edu.au`, name: `imb`
+  - priority: 0, path: `shares01.rdm.uq.edu.au`, name: `its`
+
+This will always mount the default preferred cache of `data.qbi.uq.edu.au`.
+There are two ways to change this:
+
+1. set `preferredCache` in pitschi.conf to `imb`
+
+2. remove the qbi cache from this project in Pitschi dashboard
+
+
 # Fee for service - booking
 
 If you want to book a session 'Fee for service' for your clients, please book the session under your client name. When you'll login into PPMS tracker, it will automatically read the details from booked session that the session is for 'fee for service' and record the details accordingly.
