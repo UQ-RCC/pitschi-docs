@@ -1,6 +1,11 @@
 ## 1. Once logged in, the "Start new experiment" is greyed out. Is it normal ?
 
-It means there is a mitmatch between your email address in PPMS and AAF (many IMB users face this problem). Please drop me an email (pitschi at uq.edu.au) to deal with this problem. 
+It means there is a mitmatch between your email address in RIMS and AAF (many IMB users face this problem).
+View your [RIMS profile](https://rims.uq.edu.au/userprofile/)
+to check your **Email** in RIMS. Use the [AAF Validator](https://validator.aaf.edu.au/)
+to check your **mail** attribute in AAF. Contact Pitschi support (pitschi at
+uq.edu.au) for advice on fixing different emails, or to check your email
+setting in Pitschi datamover.
 
 ## 2. I have dropped few folders inside X:\pitschi\\_my_username_, but they are not all synced. 
 
@@ -28,12 +33,3 @@ The next user cannot start another experiment if the previous one forgot to stop
 Ask the Pitschi support team to check that your project collection is mounted
 in the required institute access cache, and that the required cache is
 configured in the Pitschi datamover and the Pitschi XAPI server.
-
-## 8. Why is the _Start a new experiment_ button disabled when I login ?
-
-This usually means your email address in RIMS or in AAF is different to your
-email in Pitschi datamover. View your [RIMS profile](https://rims.uq.edu.au/userprofile/)
-to check your **Email** in RIMS. Use the [AAF Validator](https://validator.aaf.edu.au/)
-to check your **mail** attribute in AAF. Contact
-[Pitschi support](mailto:pitschi@uq.edu.au) for advice on fixing different
-emails, or to check your email setting in Pitschi datamover.
