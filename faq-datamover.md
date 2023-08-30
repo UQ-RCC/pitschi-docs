@@ -33,3 +33,9 @@ The next user cannot start another experiment if the previous one forgot to stop
 Ask the Pitschi support team to check that your project collection is mounted
 in the required institute access cache, and that the required cache is
 configured in the Pitschi datamover and the Pitschi XAPI server.
+Action required by Admin: 
+- Access the Pitschi dashboard by logging in.
+- Employ the 'search by Title' field to locate the desired project. Upon locating the project, its title and associated RDM collection will be displayed.
+- Proceed to select the 'collection ID' to view caches linked to it, which are useful for utilizing datamover.
+- If the imb cache is not visible, include it by clicking the 'add/edit cache' button. Opt for the imb cache from the provided dropdown menu.
+- Assign it a priority of '1' and confirm by clicking the 'submit' button.
