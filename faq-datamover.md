@@ -39,3 +39,12 @@ Action required by Admin:
 - Proceed to select the 'collection ID' to view caches linked to it, which are useful for utilizing datamover.
 - If the imb cache is not visible, include it by clicking the 'add/edit cache' button. Opt for the imb cache from the provided dropdown menu.
 - Assign it a priority of '1' and confirm by clicking the 'submit' button.
+
+## 8. What are the filter criteria for the project selection list when I start a new experiment ?
+
+The datamover has configuration settings for the list of managed collections,
+and for the RDM cache to use to sync data. The Pitschi server has an assigned
+collection and a list of RDM caches for each project. When you start an
+experiment you get a list of the projects that include you as a participant,
+and have a collection in the datamover list of managed collections or have the
+datamover RDM cache in the project's list of caches.
