@@ -173,6 +173,14 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=9">HITACHI SU3500A</a></td>
+        <td>SEM</td>
+        <td>HAWKEN</td>
+        <td>L120</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=171">HITACHI SU3500B</a></td>
         <td>SEM</td>
         <td>HAWKEN</td>
@@ -181,10 +189,18 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=9">HITACHI SU3500A</a></td>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=11">JEOL 7100F</a></td>
         <td>SEM</td>
         <td>HAWKEN</td>
-        <td>L120</td>
+        <td>L102</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=13">JEOL 7800</a></td>
+        <td>SEM</td>
+        <td>HAWKEN</td>
+        <td>L107</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
