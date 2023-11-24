@@ -229,6 +229,14 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr> 
     <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=172">SPIRAL TOF </a></td>
+        <td>MASS SPEC IMAGING</td>
+        <td>HAWKEN</td>
+        <td>L104</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
+    <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=277">ZEISS LSM 900 CRYO</a></td>
         <td>LIGHT MICROSCOPES</td>
         <td>QBP</td>
