@@ -42,9 +42,8 @@ Action required by Admin:
 
 ## 8. What are the filter criteria for the project selection list when I start a new experiment ?
 
-The datamover has configuration settings for the list of managed collections,
-and for the RDM cache to use to sync data. The Pitschi server has an assigned
-collection and a list of RDM caches for each project. When you start an
-experiment you get a list of the projects that include you as a participant,
-and have a collection in the datamover list of managed collections or have the
-datamover RDM cache in the project's list of caches.
+The datamover has a configuration setting for the RDM cache to use to sync
+data. The Pitschi server has an assigned collection and a list of RDM caches
+for each project. When you start an experiment you get a list of the projects
+that include you as a participant, and have the datamover RDM cache in the
+project's list of caches.

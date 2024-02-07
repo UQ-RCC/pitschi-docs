@@ -157,6 +157,20 @@ files with your report:
 To open Windows Command Prompt, click **Start**, then type `cmd` and press Enter.
 
 
+# What causes Pitschi dataset ingest errors due to missing files?
+
+Pitschi may send an email notification that there was a problem ingesting a
+dataset, including Reason
+
+- Not all files were ingested. Missing: { *list of missing files* }
+
+This typically occurs when data in the **today** folder is deleted or moved
+after Pitschi has started syncing the data. When Pitschi attempts to ingest the
+data into Clowder the previously synced data will not be in the expected
+location. You can avoid this issue by only copying data that is ready to be
+synced to RDM to your **today** folder. If you need to move or delete any data,
+do so before you copy the data to your **today** folder.
+
 # Ming's ( Hawken) comments
 
 Test scenarios of PPMS tracker & Pitschi in Hawken lab – Hitachi SU3500B
