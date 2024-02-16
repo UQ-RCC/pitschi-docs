@@ -205,14 +205,6 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=15">PHILIPS XL30</a></td>
-        <td>SEM</td>
-        <td>HAWKEN</td>
-        <td>L121</td>
-        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
-        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
-    </tr>
-    <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=96">LITHOGRAPHY RAITH E-LINE PLUS SEM</a></td>
         <td>ELECTRON BEAM</td>
         <td>HAWKEN</td>
@@ -261,14 +253,6 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     <tr>
-        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=22">TECNAI F30</a></td>
-        <td>TEM</td>
-        <td>QBP</td>
-        <td>2.154</td>
-        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
-        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
-    </tr>
-    <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=157">JEOL CRYO-ARM-200</a></td>
         <td>TEM</td>
         <td>QBP</td>
@@ -283,6 +267,14 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td>2.154</td>
         <td><a href="/pitschi-docs/#/userguide-pitschi-datamover">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq-datamover">FAQs</a></td>
+    </tr>
+     <tr>
+        <td><a href="https://au.ppms.info/uq-cmm/planning/?item=511">Olympus BX53</a></td>
+        <td>UQROCX</td>
+        <td>QBP</td>
+        <td>2.127</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
     
     
