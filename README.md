@@ -252,6 +252,14 @@ In order to do so, Pitschi integrates multiple services available to UQ, includi
         <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
         <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
     </tr>
+        <tr>
+        <td><a href="https://rims.uq.edu.au/planning/?item=1018">JEOL 1400</a></td>
+        <td>TEM</td>
+        <td>QBP</td>
+        <td>2.151</td>
+        <td><a href="/pitschi-docs/#/userguide-pitschi">User Guide</a></td>
+        <td><a href="/pitschi-docs/#/faq">FAQs</a></td>
+    </tr>
     <tr>
         <td><a href="https://au.ppms.info/uq-cmm/planning/?item=157">JEOL CRYO-ARM-200</a></td>
         <td>TEM</td>
