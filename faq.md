@@ -129,6 +129,27 @@ There are two ways to change this:
 2. remove the qbi cache from this project in Pitschi dashboard
 
 
+# How do I request additional RDM storage quota?
+
+Use the following steps to request to request an increase in storage size and/or file count limit:
+
+1. Go to [rdm.uq.edu.au](https://rdm.uq.edu.au), login and select your RDM collection
+
+2. Click the **Request more storage** button (shown below)
+
+<img src="images/storage-instructions.png" width="70%" style="border: 1px solid #ddd"></img>
+
+3. Fill the form with the relevant details and submit.
+
+   Eg. For a project with 2 years of data acquisition, collecting a total of 1TB and 1 million files, the request form could look like this:
+
+   | Description of the project |
+   | --- |
+   | ... |
+   | Extra storage required |
+   | Increase storage space by 1TB.<br/>Increase file count limit by 1M files.<br/>Collection is connected to UQ Pitschi so cannot zip/tar files |
+
+
 # Fee for service - booking
 
 If you want to book a session 'Fee for service' for your clients, please book the session under your client name. When you'll login into PPMS tracker, it will automatically read the details from booked session that the session is for 'fee for service' and record the details accordingly.
