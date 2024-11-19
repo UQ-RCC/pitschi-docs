@@ -79,9 +79,10 @@ Once the data is transferred to your RDM collection, you will receive an initial
 https://pitschi.rcc.uq.edu.au/login
 
 <br> 3. Extract metadata <br/> ​
+In the PITSCHI portal, you can view and download your data, upload additional files, and add details or metadata to enrich your datasets.
 
-In Pitschi, you would be able to retrieve or add any kind of details/metadata your dataset contain.
+<img width="700" alt="Image-DataIngested" src="https://github.com/user-attachments/assets/bfbffbf6-f4be-4034-a0de-87d34baae870">
 
-<kbd><img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/128658224-c66edace-350e-4485-ac9b-1788d521945e.png"></kbd>
+
 
 
