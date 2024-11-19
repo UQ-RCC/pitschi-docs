@@ -48,8 +48,8 @@
 <br>If the above messgae appears on your screen, please log out of the RIMS/PPMS Tracker and return to Step 2. <br/>
 
 <br> 1) If you have booked a session in RIMS/PPMS, please log in to **PPMS Tracker** again. <br/>
-<br> 2)  After logging into the instrument computer, you will see the following window on the screen. This window allows you to create a dataset folder for your session. The dataset folder is automatically named using the format **RIMSusername_ProjectID_Date_XYZ** (e.g., uqrali1_1176_TrainingDemo). PITSCHI will create this folder in your **Today** folder.
-You can also access your **Today** folder by clicking the provided link labeled **Click here to view your Today folder** in the window.<br/>
+<br> 2)  After logging into the instrument computer, you will see the following window on the screen. This window allows you to create a dataset folder for your session. The generated dataset folder name uses the format **RIMSusername_ProjectID_Date**. We recommend adding a descritive suffix to the generated name (e.g., uqrali1_1176_DemoDataset). PITSCHI will create this folder in your **Today** folder.
+You can also access your **Today** folder by clicking the provided link labelled **Click here to view your Today folder** in the window.<br/>
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/525720fd-2f51-4040-aac5-234e1c922a22">
 
