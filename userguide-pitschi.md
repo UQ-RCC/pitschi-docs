@@ -5,26 +5,26 @@
 > Please do not ...
 -->
 
-## Step 1: User registration in PPMS
+## Step 1: User registration in RIMS/PPMS
 
 > ### Prerequisite
 >
-> Please note that **it is compulsory to register yourself as a user in PPMS instrument booking system.**
+> Please note that **it is compulsory to register yourself as a user in RIMS/PPMS instrument booking system.**
 
-* Please make sure you are registered on PPMS instrument booking system. 
-* If you are already a PPMS user, please **go to Step 2**.
+* Please make sure you are registered on RIMS/PPMS instrument booking system. 
+* If you are already a RIMS/PPMS user, please **go to Step 2**.
 
-* If you are not a PPMS user, please complete user registration form
+* If you are not a RIMS/PPMS user, please complete user registration form
 	 https://au.ppms.info/uq-cmm/areq/?pf=2
 	 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123127393-9332f680-d48d-11eb-9aee-673bdfd03299.png">
 
-## Step 2: Book your session in PPMS
+## Step 2: Book your session in RIMS/PPMS
 
 > ### Prerequisite
-> Please note that **it is compulsory to book your session in PPMS instrument booking system.**
+> Please note that **it is compulsory to book your session in RIMS/PPMS instrument booking system.**
 
-1) Once your PPMS account is approved by CMM staff. Please login to PPMS using your UQ username and password.
+1) Once your RIMS/PPMS account is approved by CMM staff. Please login to RIMS/PPMS using your UQ username and password.
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123127764-ec9b2580-d48d-11eb-89e8-3e9cdf7446b2.png">
 2) On your home page please click on ‘Book’ on top bar.
 3) Please select the instrument from the list of instruments.
@@ -37,68 +37,51 @@
 
 ## Step 3: Access Instrument
 
-1) On the Instrument computer, on login screen please enter your UQ username and password.
+1) On the Instrument's login screen, please enter your RIMS username and password.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123135508-39cec580-d495-11eb-9594-91fcb6b4ad79.png">
 
-
-2) Please select project. Make sure you select the **right project**. 
-
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123135669-684ca080-d495-11eb-968e-44ff4d5ceb19.png">
-
 ## Step 4: Data Acquisition
 > ### Prerequisite
-> Please make sure you have **booked instrument in PPMS booking system.**
+> Please make sure you have **booked instrument in RIMS/PPMS booking system.**
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/124858185-ec07a080-dff0-11eb-802d-3b87fe36a55c.jpg">
 
-If you see the above messgae on your screen, please log out of the PPMS Tracker and  go back to Step 2.
+If the above messgae appears on your screen, please log out of the RIMS/PPMS Tracker and return to Step 2.
 
-1) If you have a booking session in PPMS, then please login to **PPMS Tracker** again.
-2) Your project UQRDM collection would be mounted automatically. If you want to check please follow following instructions:  
-> - Click on the **Start button** and search **File Explorer**, then click on **File Explorer**.
-> 
-> <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/125218788-f71b4300-e306-11eb-9155-5085233eaa95.png">
-> 
-> - On File Explorer, you can access your UQRDM collection in two ways a) click directly on UQRDM collection on the left panel of window 
-> 
-> <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/125220496-3303d780-e30a-11eb-917d-1027cebc9be7.png">
->
-> - or click on 'This PC' and find your UQRDM collection there. 
-> <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/125221130-23d15980-e30b-11eb-87a6-933d106791c6.png">
+1) If you have booked a session in RIMS/PPMS, please log in to **PPMS Tracker** again.
+2)  After logging into the instrument computer, you will see the following window on the screen. This window allows you to create a dataset folder for your session. The dataset folder is automatically named using the format RIMSusername_ProjectID_Date_XYZ (e.g., uqrali1_1176_TrainingDemo). PITSCHI will create this folder in your "Today" folder.
+You can also access your "Today" folder by clicking the provided link labeled Click here to view your Today folder in the window.
 
- 
-3) When you finish capturing your data, please drop it in **Today** folder on Desktop.
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/525720fd-2f51-4040-aac5-234e1c922a22">
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126724917-ebdbcd6d-e8ae-48c5-9b05-fa547abd32fb.png">
+4) When you click the OK button, your dataset folder will open, where you need to copy your data for transfer to your RDM collection.
 
-4) Please open **Today** folder. create a new folder with the name you want for your data. For example **Test-23072021**
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/138631760-c1300d85-7895-4cc5-a153-736642249b38.png">
+When you're ready, copy your data into this folder. Make sure to apply any necessary changes to your data before copying it to avoid any RDM synchronization issues. 
 
-5) Please drop your data in the folder.
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126727644-a9bdb554-9a33-4e3a-8f60-8c1e290834b5.png">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8cebb99d-bd8d-4710-94d8-34274173f1e2">
 
-6) once data copied successfully, Please go to next step.
-
+5) After the data has been successfully copied, close the window and proceed to the next step.
+   
 ## Step 5: Logout of PPMS Tracker.
 
 Once you finish the work please log out of the system.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/123135563-4ce19580-d495-11eb-9311-f7067a7cd648.png">
 
-## Step 6: First email - right after logout​.
+## Step 6: First email **Successfully Imported Dataset to RDM** - right after logout​.
 
-Once data syncing is complete you'll recieve first email - **successfully imported dataset to RDM**.
+Once the data is transferred to your RDM collection, you will receive an initial email titled **Successfully Imported Dataset to RDM**.
 
-<kbd><img width="700" alt="image" src="https://user-images.githubusercontent.com/42192079/126728380-e340740b-309a-4ac3-a671-d70b71708fee.png"></kbd>
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/d91f1238-323e-4f0d-8692-50f24614fcdb">
 
+## Step 7: Second email - **Successfully ingested dataset**.
 
+1. The second email will be sent once the data has been ingested into PITSCHI/Clowder.
 
-## Step 7: Second email - after data ingestion to pitschi.
+The email will provide links to access your data in the PITSCHI portal (CMM data repository).
 
-1. Ingest dataset to Clowder/Pitschi: Once data is improted successfully to project RDM you'll recieve another email - **Successfully ingested dataset**, and pitschi will dismount RDM automatically. Email will provide you the links to acces your data in Pitschi ( CMM data repository), UQRDM and in CVL for image analysis.
-
-<kbd><img width="700" alt="Image-DataIngested" src="https://user-images.githubusercontent.com/42192079/128655689-31ec6317-0a03-4dee-b146-9dc850200111.png"></kbd>
+<img width="700" alt="Image-DataIngested" src="https://github.com/user-attachments/assets/25808a29-c38b-4482-8fb3-95ed1e98c9ce">
 
 2. Login into Pitschi: 
 You can login into **Pitschi** either by clicking on the link provided in your email or using following URL.
